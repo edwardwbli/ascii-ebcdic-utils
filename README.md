@@ -32,5 +32,4 @@ asciiEbcdicUtils.bytesToEbdic(['84', 'F2', '91', '83', '83']);
 ```javascript
 var ebcdic = a2e.asciiStrToEbcdicChr('!@##$%^&*()_+=-?><,./~`012345678ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz')
 var ascii = a2e.ebcdicStrToAsciiChr(ebcdic)
-</script>
 ```
