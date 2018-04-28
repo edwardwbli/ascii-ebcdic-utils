@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/brandonros/ascii-ebcdic-utils/issues"
   },
-  "homepage": "https://github.com/brandonros/ascii-ebcdic-utils#readme"
+  "homepage": "https://github.com/brandonros/ascii-ebcdic-utils#readme",
+  "dependencies": {
+    "browserify": "^16.2.0"
+  }
 }
